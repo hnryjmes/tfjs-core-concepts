@@ -1,0 +1,23 @@
+{
+  "name": "tfjs-core-concepts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnryjmes/tfjs-core-concepts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hnryjmes/tfjs-core-concepts/issues"
+  },
+  "homepage": "https://github.com/hnryjmes/tfjs-core-concepts#readme",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^0.2.3"
+  }
+}
